@@ -1,4 +1,4 @@
-# 🌸 Projetos de Programação Orientada a Objetos (POO) 🐱
+#  Projetos de Programação Orientada a Objetos (POO) 
 
 ![Java](https://img.shields.io/badge/Java-rosa?style=for-the-badge&logo=openjdk&logoColor=white&color=ff69b4)
 ![Status](https://img.shields.io/badge/Status-Estudando%20POO-purple?style=for-the-badge)
