@@ -1,7 +1,4 @@
-# Projetos de Programação Orientada a Objetos (POO)
-
-Este repositório reúne os projetos desenvolvidos durante as aulas da disciplina **Programação Orientada a Objetos (POO)** do curso de **Engenharia da Computação**.
-
+# 🌸 Projetos de Programação Orientada a Objetos (POO) 🐱
 
 ![Java](https://img.shields.io/badge/Java-rosa?style=for-the-badge&logo=openjdk&logoColor=white&color=ff69b4)
 ![Status](https://img.shields.io/badge/Status-Estudando%20POO-purple?style=for-the-badge)
@@ -10,19 +7,22 @@ Este repositório reúne os projetos desenvolvidos durante as aulas da disciplin
 
 ---
 
+Este repositório reúne os projetos desenvolvidos durante as aulas da disciplina **Programação Orientada a Objetos (POO)** do curso de **Engenharia da Computação**.  
+
+---
+
 ## 📘 Conteúdos abordados
-- Classes e Objetos
-- Atributos e Métodos
-- Encapsulamento
-- Herança
-- Polimorfismo
-- Interfaces
-- Tratamento de Exceções
+- 🎀 Classes e Objetos  
+- 🎀 Atributos e Métodos  
+- 🎀 Encapsulamento  
+- 🎀 Herança  
+- 🎀 Polimorfismo  
+- 🎀 Interfaces  
+- 🎀 Tratamento de Exceções  
 
 ---
 
 ## 🚀 Como executar
-1. Clone o repositório:
+1. Clone este repositório:
    ```bash
    git clone https://github.com/brureads/POO_EngenhariadaComputacao.git
-
