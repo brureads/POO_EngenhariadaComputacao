@@ -1,18 +1,25 @@
-## Getting Started
+# Questão 1 - Sistema de Biblioteca (Agregação)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Enunciado
+Modele um sistema para uma biblioteca.  
+- Crie uma classe `Livro` com atributos: **título, autor e anoPublicacao**.  
+- Crie também uma classe `Biblioteca` que possuirá um **nome** e um objeto `Livro`.  
+- A relação entre `Biblioteca` e `Livro` é de **agregação**, pois um livro pode existir independentemente de estar em uma biblioteca específica.
 
-## Folder Structure
+##  Requisitos
+- Criar uma **classe principal** (`Main`) para:
+  1. Instanciar uma biblioteca.  
+  2. Adicionar um livro a ela.  
+  3. Imprimir as informações dos objetos relacionados.  
 
-The workspace contains two folders by default, where:
+##  Exemplo de Saída
+- Biblioteca: Biblioteca Central
+- Livro: Estruturas de Dados
+- Autor: Robert Lafore
+- Ano: 2002
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+📌 **Conceito aplicado:** Este exercício demonstra a relação de **Agregação** em Programação Orientada a Objetos (POO).
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+![Estudando](https://i.pinimg.com/736x/2d/36/22/2d3622eead0eb8614748e92ff663e178.jpg)
